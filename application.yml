@@ -3,4 +3,4 @@ logging:
     root: INFO
 hari:
   test:
-    config: sample
+    config: test
